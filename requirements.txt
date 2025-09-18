@@ -2,3 +2,6 @@ plotly
 streamlit
 pandas
 scikit-learn
+matlpotlib
+seaborn
+

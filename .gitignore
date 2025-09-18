@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+myenv/
+
+
+#recycle folder
+recycle/
+
+# IDE / Editor files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Data files
+*.npy
+*.pkl
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
