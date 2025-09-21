@@ -16,8 +16,6 @@ recycle/
 *.sublime-project
 *.sublime-workspace
 
-# Data files
-*.npy
 
 # Logs
 *.log
