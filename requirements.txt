@@ -2,6 +2,7 @@ plotly
 streamlit
 pandas
 scikit-learn
-matlpotlib
+matplotlib
 seaborn
-
+numpy
+shap

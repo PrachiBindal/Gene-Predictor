@@ -18,7 +18,6 @@ recycle/
 
 # Data files
 *.npy
-*.pkl
 
 # Logs
 *.log
